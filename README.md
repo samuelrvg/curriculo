@@ -1,22 +1,20 @@
-# Guilherme Peixoto da Costa Louro
-Petrópolis/RJ
+# Samuel Renan Gonçalves Vaz
+Cuiabá/MT
 
 ---
 
-## Software Engineer
+## Desenvolvedor C#
 
 
-**Telefone:** (24) 98111-6553
+**Telefone:** (65) 99247-8147
 
-**E-mail:** guipclouro@gmail.com
+**E-mail:** samuel.rvg@gmail.com
 
-**Linkedin:** [https://www.linkedin.com/in/guilhermelouro/](https://www.linkedin.com/in/guilhermelouro/)
+**Linkedin:** [https://www.linkedin.com/in/samuel-renan-b6b83a103/](https://www.linkedin.com/in/samuel-renan-b6b83a103/)
 
-**Github:** guilouro
+**Github:** samuelrvg
 
-**Skype:** guilherme-louro
-
-**Inglês:** Intermediário
+**Inglês:** Básico
 
 
 ---
@@ -24,13 +22,9 @@ Petrópolis/RJ
 ## Competências
 
 **BackEnd:**
-* Python
-* Django/Flask/Falcon
+* C#, WinForms, Asp.net MVC
 * NodeJS
-* PHP
 * Programação Orientada à Objeto
-* Testes de software
-
 
 **FrontEnd:**
 * ES6
@@ -38,56 +32,29 @@ Petrópolis/RJ
 * React Native
 * Redux
 * Webpack
-* Testes de software
 * HTML5/CSS3
-* Pré-processadores (Sass, Less, Stylus)
-* Responsive Design
-* Automatizadores (Grunt, Gulp)
-* jQuery
-
+* Pré-processadores (Sass) básico
 
 **Banco de Dados:**
-* MySQL
 * PostgreSQL
-* SQLite
-* Firebase Realtime Database
-
-
-**Infra**
-* Apache/Nginx
-* Docker
-* Continuous Integrations
-* Continuous Deployment
-* Serviços AWS
-* Heroku
-* Fabric (Para automação de deploy)
-
+* SQLServer
 
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
-* Conhecimento em SEO
-* Conhecimento em Design e Arquitetura de Software
-* Base de UX/UI.
 * Scrum
-* Kanban
 
-
-**Experiências em outras linguagens:**
-* Criação de alguns projetos utilizando C#, .NET
-* Pequenos projetos com Ruby
-* Pequenos projetos utilizando C, C++, OpenGL
-* Trabalhei durante 4 anos com AS3/AS2 na criação de sites e jogos educativos
+**Certificações**
+MTA - Microsoft Technology Associate
+70-483 - Developer C#
 
 ---
 
 ## Informações adicionais
 
-* Experiência em trabalhar com Produto.
 * Prezo muito pela qualidade do código.
 * Facilidade e interesse em estar sempre aprendendo e evoluíndo.
 * Prazer em passar conhecimento adiante.
-* Criatividade.
 * Determinação e responsabilidade.
 * Facilidade para trabalhar em grupo
 
@@ -114,38 +81,16 @@ Petrópolis/RJ
 > Desenvolvimento de scripts de automação de tarefas com Python.
 > Controle de versão com git.
 
-* 2011/2013 - **Freelancer Full Time**
-> Atuei no desenvolvimento web utilizando PHP, MySql, Framework CakePHP, AS3, HTML5, CSS, JavaScript/jQuery. Atuei também com desenvolvimento de games em AS2/AS3 para projetos educativos.
-
-* 2008/2011 - **Eh! Comunicação**
-> Atuei na área de Desenvolvimento web utilizando PHP, AS3, MySql e HTML/CSS/Javascript e também com Design Gráfico fazendo toda a criação, utilizando Photoshop e Corel.
-
-* 2007/2008 - **DS|ONE Digital Strategy**
-> Atuei como responsável em gerenciar uma equipe no setor publicitário da agência fazendo a gestão de redes sociais. Atuei também no auxilio a criação de novas campanhas publicitarias e em alguns momentos contribui para o setor de design com algumas criações.
-
-* 2006		- **Supremma Comunicação Visual**
-> Atuei como Designer Gráfico, no setor de criação da agência, utilizando na maior parte do tempo o Photoshop como ferramenta principal.
-
-* 2003/2006 - **SóDesign Comunicação Visual**
-> Atuei na área de Design Gráfico, fazendo artes para vitrines de lojas, letreiros, folders e cartões de visita utilizando Photoshop e Corel Draw.
-
-* 2001/2003 – **Secretaria de Obras da PMP**
-> Atuei no atendimento ao público e no cadastro e organização de processos no banco de dados local.
-
-
 ---
 
 ## Formação
 
-* **Graduação** - Sistemas de Informação pelo (FAETERJ) - **[Completo]**
-* **Graduação** - 3 anos de Publicidade e Propaganda na Universidade Estácio de Sá(UNESA)
+* **Graduação** - Sistemas de Informação pelo (FEICS) - **[Completo]**
 * **Curso** - Desenvolvedor Multiplataforma Android/IOS com React Native
-* **Curso** - The Complete React and Redux course
-* **Curso** - React.js Ninja
+* **Curso** - Desenvolvedor Multiplataforma Android/IOS com Xamarin Forms
+* **Curso** - React Ninja
+* **Curso** - JavaScript Ninja
 * **Curso** - JS com TDD
-* **Curso** - Welcome to the Django por Henrique Bastos
-* **Curso** - Python para Zumbis
-* **Curso** – Programa students to business de Desenvolvimento pela Microsoft .
-* **Curso** – Desenvolvimento em PHP pela WebRoads.
-* **Curso** – Flash Total Avançado por Luciano Augusto Treinamentos Profissionais.
-* **Curso** – Desenvolvimento Web pelo Senac.
+* **Curso** - Banco de Dados
+
+* Dentre outros cursos relacionados a área de desenvolvimento.
