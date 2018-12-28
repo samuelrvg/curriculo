@@ -23,7 +23,6 @@ Cuiabá/MT
 
 **BackEnd:**
 * C#, WinForms, Asp.net MVC
-* NodeJS
 * Programação Orientada à Objeto
 
 **FrontEnd:**
@@ -31,55 +30,44 @@ Cuiabá/MT
 * ReactJS
 * React Native
 * Redux
-* Webpack
 * HTML5/CSS3
-* Pré-processadores (Sass) básico
 
 **Banco de Dados:**
 * PostgreSQL
+* Oracle
 * SQLServer
 
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
+* Análise de dados usando R
 * Scrum
 
 **Certificações**
-MTA - Microsoft Technology Associate
-70-483 - Developer C#
+* MTA - Microsoft Technology Associate
+* 70-483 - Developer C#
+
 
 ---
 
 ## Informações adicionais
 
 * Prezo muito pela qualidade do código.
-* Facilidade e interesse em estar sempre aprendendo e evoluíndo.
-* Prazer em passar conhecimento adiante.
 * Determinação e responsabilidade.
 * Facilidade para trabalhar em grupo
+
+* Meu forte em desenvolvimento é o Back-End, gosto de ensinar e estou sempre disposto a aprender técnologias novas.
+* Uma das áreas que tenho interesse de conhecer mais é o Machine Learning.
+
 
 ---
 
 ## Experência Profissional
 
-* **Projetos Pessoais**
-> Trabalho em alguns projetos de portal criando alguns serviços de crawler para raspagem de dados. 
+* 2016/2018 - **Totem TI**
+> Atuei no desenvolvimento de sistema web "Crédito" para empressa Amaggi, também em projetos multiplataforma usando Xamarin Forms.
+> Participei de outros projetos mobile - Totem Manager e SISGM.
 
-> Como hobby, sou proprietário de um portal esportivo que utiliza um desses projetos para criar conteúdo. Nesse projeto se utiliza Python/Django, Javascript, ReactJS, Docker, Postgres, Apache, Celery, DigitalOcean, entre outras tecnologias, além de metodologias para aperfeiçoamento de SEO e performance do portal.
-
-> Criação e colaboração em projetos open source.
-
-> Criação de diversos projetos utilizando React/Redux, Python, Django, Flask, Heroku, Deploy via Bitbucket, Deploy via Travis.
-
-
-* 2015/Dias Atuais - **B2W Digital**
-> Atualmente trabalhando no Frontend de um projeto 100% ReactJS, utilizando Redux para gerir alguns states. Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde 2016. Na parte de backend ajudo na manutenção da API utilizando Python/Falcon e em serviços e projetos de lambda integrado à AWS. Além de pequenos projetos com NodeJS, Python, Jekyll e Docker.
-
-* 2013/2015 - **Maxisite Internet Solutions**
-> Atuei no desenvolvimento de sistemas web com PHP e MySQL utilizando [um framework desenvolvido por mim](https://github.com/guilouro/FRAMEWORK-PHP/) no **Back End** e HTML5, CSS com Pré-processadores *(Sass/Less)* e Javascript/jQuery/AngularJs automatizados com Grunt no **FrontEnd**.
->
-> Desenvolvimento de scripts de automação de tarefas com Python.
-> Controle de versão com git.
 
 ---
 
