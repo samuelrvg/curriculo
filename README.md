@@ -55,9 +55,8 @@ Cuiabá/MT
 * Prezo muito pela qualidade do código.
 * Determinação e responsabilidade.
 * Facilidade para trabalhar em grupo
-
-* Meu forte em desenvolvimento é o Back-End, gosto de ensinar e estou sempre disposto a aprender técnologias novas.
-* Uma das áreas que tenho interesse de conhecer mais é o Machine Learning.
+* Meu forte em desenvolvimento é o Back-End, gosto de ensinar e estou sempre disposto a aprender novas técnologias.
+* Uma das áreas que tenho interesse de aprender mais, é o Machine Learning.
 
 
 ---
